@@ -1,7 +1,7 @@
 				local Players = game:GetService("Players")
 				local ReplicatedStorage = game:GetService("ReplicatedStorage")
 				local Workspace = game:GetService("Workspace")
-				local objs = game:GetObjects("rbxassetid://13804645310")
+				local objs = game:GetObjects("rbxassetid://14227134273")
 				local import = objs[1]
 				import.Parent = game:GetService("ReplicatedStorage")
 				index = {
